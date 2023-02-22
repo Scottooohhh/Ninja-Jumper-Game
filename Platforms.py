@@ -1,0 +1,9 @@
+Platform1 = Rect((450,500) , (100,10))|#creates platform middle of screen
+Platfrom2 = Rect((300,400) , (100,10))#...moving out left
+Platfrom3 = Rect((600,400) , (100,10))#..moving out right
+Platfrom4 = Rect((200,300) , (100,10))#...moving out left
+Platfrom5 = Rect((700,300) , (100,10))#..moving out right
+Platfrom6 = Rect((100,200) , (100,10))#...moving out left
+Platfrom7 = Rect((800,200) , (100,10))#..moving out right
+Platfrom8 = Rect((0,100) , (100,10))#stop far left
+Platfrom9 = Rect((900,100) , (100,10))#stop far right
